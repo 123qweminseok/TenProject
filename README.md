@@ -58,7 +58,3 @@
 **이 어플리케이션은 용마고등학교의 역동적인 변천사를 다양한 미디어 콘텐츠로 효과적으로 전달하여, 사용자에게 역사적 감동과 정보를 동시에 제공하는 것을 목표로 합니다.**
 
 
-<video controls>
-  <source src="https://github.com/사용자명/리포지토리명/raw/main/video.mp4" type="video/mp4">
-  브라우저가 지원하지 않습니다.
-</video>
